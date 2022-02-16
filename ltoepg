@@ -4,10 +4,18 @@
 <icon src="https://1.bp.blogspot.com/-7WMCAEPB0pc/YUODp6R9UhI/AAAAAAAAANI/BYubtojWstcxkoMyYvFcb1aogrQ-poEswCLcBGAsYHQ/s150/My%2BPost%2B%252855%2529.png"/>
 <url>http://lastejasonline.blogspot.com/</url>
 </channel>
-<programme start="20210510000001 -0300" stop="20300510003000 -0300" channel="LTOTV">
-<title lang="es">Prueba EPG</title>
-<desc lang="es">Primeros en Las Tejas.</desc>
+
+<programme start="20220220133000 -0300" stop="20220220140000 -0300" channel="LTOTV">
+<title lang="es">Supermatch</title>
+<desc lang="es">https://lastejasonline.blogspot.com</desc>
+<date>1992</date>
+<icon src="https://pbs.twimg.com/media/EazxCK5XgAE_Z6V?format=jpg&name=large"/>
+</programme>
+
+<programme start="20220220140000 -0300" stop="20220220143000 -0300" channel="LTOTV">
+<title lang="es">La Asombrosa Excursion de Zamba</title>
+<desc lang="es">https://lastejasonline.blogspot.com.</desc>
 <date>2022</date>
-<icon src="https://1.bp.blogspot.com/-7WMCAEPB0pc/YUODp6R9UhI/AAAAAAAAANI/BYubtojWstcxkoMyYvFcb1aogrQ-poEswCLcBGAsYHQ/s150/My%2BPost%2B%252855%2529.png"/>
+<icon src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFG1ZWrO3cRpfGgjx7TaBPqsuJewdlIhKKmc1JIe3evh7LhYrU"/>
 </programme>
 </tv>
